@@ -194,6 +194,7 @@ python -c 'import pty; pty.spawn("/bin/bash")'
 /home/photographer/proof.txt
 ```
 - Y ya tenemos el flag de root. 
+
 ![alt text](/ANEXOS/image_12.png)
 
 
